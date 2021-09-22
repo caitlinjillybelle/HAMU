@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0058C3DC26FB3930004D23A8 /* plantData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0058C3DB26FB3930004D23A8 /* plantData.json */; };
 		005DC3C026FB2F0500766CD3 /* hamuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005DC3BF26FB2F0500766CD3 /* hamuApp.swift */; };
 		005DC3C226FB2F0500766CD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005DC3C126FB2F0500766CD3 /* ContentView.swift */; };
 		005DC3C426FB2F0700766CD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 005DC3C326FB2F0700766CD3 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0058C3DB26FB3930004D23A8 /* plantData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = plantData.json; sourceTree = "<group>"; };
 		005DC3BC26FB2F0500766CD3 /* hamu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hamu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		005DC3BF26FB2F0500766CD3 /* hamuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hamuApp.swift; sourceTree = "<group>"; };
 		005DC3C126FB2F0500766CD3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +34,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0058C3D826FB3796004D23A8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0058C3DB26FB3930004D23A8 /* plantData.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		005DC3B326FB2F0500766CD3 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +61,7 @@
 		005DC3BE26FB2F0500766CD3 /* hamu */ = {
 			isa = PBXGroup;
 			children = (
+				0058C3D826FB3796004D23A8 /* Resources */,
 				005DC3BF26FB2F0500766CD3 /* hamuApp.swift */,
 				005DC3C126FB2F0500766CD3 /* ContentView.swift */,
 				005DC3C326FB2F0700766CD3 /* Assets.xcassets */,
@@ -125,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0058C3DC26FB3930004D23A8 /* plantData.json in Resources */,
 				005DC3C726FB2F0700766CD3 /* Preview Assets.xcassets in Resources */,
 				005DC3C426FB2F0700766CD3 /* Assets.xcassets in Resources */,
 			);
