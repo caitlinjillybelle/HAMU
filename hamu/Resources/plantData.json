@@ -3,7 +3,7 @@
         "latinName": "Acaena anserinifolia",
         "maoriNames": "Piripiri",
         "englishNames": "Bidibidi, bidibid",
-        "id": "0001",
+        "id": 1001,
         "category": "Plant",
         "description": "",
         "imageName": "",
@@ -11,146 +11,147 @@
         "isEdible": true,
         "edibleDescription": "The leaves can be infused for tea.",
         "isMedicinal": true,
-        "medicinalDescription": "A very strong tea or tonic was used to cure rheumatism, kidney, bladder trouble, and venereal disease. A decoction of the leaves was taken as a tonic and used for kidney and bladder problems. It was also taken as a treatment for venereal disease. One kuia recommended the infusion for hakihaki and old skin disase which has more sores and is more extensive a rash than paipai (a skin disease caused by lice.)"
-    }
+        "medicinalDescription": "A very strong tea or tonic was used to cure rheumatism, kidney, bladder trouble, and venereal disease. A decoction of the leaves was taken as a tonic and used for kidney and bladder problems. It was also taken as a treatment for venereal disease. One kuia recommended the infusion for hakihaki and old skin disase which has more sores and is more extensive a rash than paipai (a skin disease caused by lice.)",
+        "imageName":"Acaena_anserinifolia"
+    },
     {
         "latinName": "Aciphylla colensoi",
         "maoriNames": "Taramea",
         "englishNames": "Spaniard, speargrass",
-        "id": "0002",
+        "id": 1002,
         "category": "Plant",
         "description": "",
-        "imageName": "",
         "caution": false,
         "isEdible": true,
         "edibleDescription": "The roots and shoots can be eaten, and the resin can be chewed as gum.",
         "isMedicinal": false,
-        "medicinalDescription": ""
-    }
+        "medicinalDescription": "",
+        "imageName":"Aciphylla_colensoi"
+    },
     {
         "latinName": "Agaricus arvensis",
         "maoriNames": "",
         "englishNames": "Horse Mushroom",
-        "id": "0003",
+        "id": 1003,
         "category": "Fungi",
         "description": "",
-        "imageName": "",
         "caution": true,
         "isEdible": true,
         "edibleDescription": "The whole mushroom can be eaten. Caution: Some people are allergic to Agaricus mushrooms, and will experience vomiting and diarrhoea",
         "isMedicinal": false,
-        "medicinalDescription": ""
-    }
+        "medicinalDescription": "",
+        "imageName":"Agaricus_bitorquis"
+    },
     {
         "latinName": "Agaricus bitorquis",
         "maoriNames": "",
         "englishNames": "Two-ringed Mushroom",
-        "id": "0004",
+        "id": 1004,
         "category": "Fungi",
         "description": "",
-        "imageName": "",
         "caution": true,
         "isEdible": true,
         "edibleDescription": "The whole mushroom can be eaten. Caution: Some people are allergic to Agaricus mushrooms, and will experience vomiting and diarrhoea.",
         "isMedicinal": false,
-        "medicinalDescription": ""
-    }
+        "medicinalDescription": "",
+        "imageName":"Agaricus_campestris_michoacan"
+    },
     {
         "latinName": "Agaricus campestris",
         "maoriNames": "Whareatua",
         "englishNames": "Feild Mushroom",
-        "id": "0005",
+        "id": 1005,
         "category": "Fungi",
         "description": "",
-        "imageName": "",
         "caution": true,
         "isEdible": true,
         "edibleDescription": "The whole mushroom can be eaten. Caution: Some people are allergic to Agaricus mushrooms, and will experience vomiting and diarrhoea.",
         "isMedicinal": false,
-        "medicinalDescription": ""
-    }
+        "medicinalDescription": "",
+        "imageName":"Agaricus_campestris"
+    },
     {
         "latinName": "Agaricus subperonatus",
         "maoriNames": "",
         "englishNames": "Torn-edged Mushroom",
-        "id": "0006",
+        "id": 1006,
         "category": "Fungi",
         "description": "",
-        "imageName": "",
         "caution": true,
         "isEdible": true,
         "edibleDescription": "The whole mushroom can be eaten. Caution: Some people are allergic to Agaricus mushrooms, and will experience vomiting and diarrhoea.",
         "isMedicinal": false,
-        "medicinalDescription": ""
-    }
+        "medicinalDescription": "",
+        "imageName":"Agaricus_subperonatus"
+    },
     {
         "latinName": "Agathis australis",
         "maoriNames": "Kauri",
         "englishNames": "",
-        "id": "0007",
+        "id": 1007,
         "category": "Plant",
         "description": "",
-        "imageName": "",
         "caution": false,
         "isEdible": true,
         "edibleDescription": "The resin can be used as chewing gum.",
         "isMedicinal": false,
-        "medicinalDescription": ""
-    }
+        "medicinalDescription": "",
+        "imageName":"Agathis_australis"
+    },
     {
         "latinName": "Alectryon excelsus",
         "maoriNames": "Titoki",
         "englishNames": "New Zealand Ash",
-        "id": "0008",
+        "id": 1008,
         "category": "Plant",
         "description": "",
-        "imageName": "",
         "caution": false,
         "isEdible": true,
         "edibleDescription": "The red flesh of the fruit is eaten.",
         "isMedicinal": true,
-        "medicinalDescription": "The oil is extracted from the black seeds by placing them into a strong flax bag that could be pounded. The oil was applied to painful breasts, sore eyes, earache, and rubbed over bodies to enhance appearance. The red pulp of the berry was also useful. An infusion of this provided a cure for blood spitting in people suffering from tuberculosis, or placed on inflamed navels of new born babies."
-    }
+        "medicinalDescription": "The oil is extracted from the black seeds by placing them into a strong flax bag that could be pounded. The oil was applied to painful breasts, sore eyes, earache, and rubbed over bodies to enhance appearance. The red pulp of the berry was also useful. An infusion of this provided a cure for blood spitting in people suffering from tuberculosis, or placed on inflamed navels of new born babies.",
+        "imageName":"Acaena_anserinifolia"
+    },
     {
         "latinName": "Alseuosmia macrophylla",
         "maoriNames": "Karapapa, Toropapa",
         "englishNames": "New Zealand Ash",
-        "id": "0009",
+        "id": 1009,
         "category": "Plant",
         "description": "",
-        "imageName": "",
         "caution": false,
         "isEdible": true,
         "edibleDescription": "The ripe berries can be eaten.",
         "isMedicinal": false,
-        "medicinalDescription": ""
-    }
+        "medicinalDescription": "",
+        "imageName":"Acaena_anserinifolia"
+    },
     {
         "latinName": "Apium prostratum",
         "maoriNames": "Tūtae kōau",
         "englishNames": "Native celery",
-        "id": "0010",
+        "id": 1010,
         "category": "Plant",
         "description": "",
-        "imageName": "",
         "caution": false,
         "isEdible": true,
         "edibleDescription": "The leaves and stem can be eaten.",
         "isMedicinal": false,
-        "medicinalDescription": ""
-    }
+        "medicinalDescription": "",
+        "imageName":"Acaena_anserinifolia"
+    },
     {
         "latinName": "Aristotelia serrata",
         "maoriNames": "Makomako",
         "englishNames": "Wineberry",
-        "id": "0011",
+        "id": 1011,
         "category": "Plant",
         "description": "",
-        "imageName": "",
         "caution": false,
         "isEdible": true,
         "edibleDescription": "The ripe berries can be eaten, the berries have been used to make jam and colour and make wine.",
         "isMedicinal": true,
-        "medicinalDescription": "The bark was used in a bath for rheumatism. The leaves were boiled and the liquid then applied to sore eyes and boils. The boiled leaves themselves were applied to burns."
+        "medicinalDescription": "The bark was used in a bath for rheumatism. The leaves were boiled and the liquid then applied to sore eyes and boils. The boiled leaves themselves were applied to burns.",
+        "imageName":"Acaena_anserinifolia"
     }
 ]
