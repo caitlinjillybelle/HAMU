@@ -13,7 +13,7 @@ import CoreLocation
  You’ll rely on the Decodable component of the Codable protocol
  later in this section to read data from file.
  */
-struct Plant: Hashable, Codable {
+struct Plant: Hashable, Codable, Identifiable {
     var latinName: String
     var maoriNames: String
     var englishNames: String

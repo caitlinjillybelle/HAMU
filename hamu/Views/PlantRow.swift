@@ -14,14 +14,15 @@ struct PlantRow: View {
         HStack{
             plant.image
                 .resizable()
-                .frame(width: 50, height: 50)
-                .padding()
+                .frame(width: 60, height: 60)
             VStack{
                 Text(plant.latinName)
+                    .italic()
                 Text(plant.maoriNames)
                 Text(plant.englishNames)
             }
         }
+        .frame(width: 300, height: 70, alignment: .leading)
     }
 }
 

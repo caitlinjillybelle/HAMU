@@ -13,6 +13,8 @@
 		0058C3E226FD8711004D23A8 /* Plant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0058C3E126FD8711004D23A8 /* Plant.swift */; };
 		0058C3E426FD8A76004D23A8 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0058C3E326FD8A76004D23A8 /* ModelData.swift */; };
 		0058C3E826FD9065004D23A8 /* PlantRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0058C3E726FD9065004D23A8 /* PlantRow.swift */; };
+		0058C3EA26FDAFB3004D23A8 /* PlantsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0058C3E926FDAFB3004D23A8 /* PlantsList.swift */; };
+		0058C3EC26FDB2AE004D23A8 /* PlantDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0058C3EB26FDB2AE004D23A8 /* PlantDetail.swift */; };
 		005DC3C026FB2F0500766CD3 /* hamuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005DC3BF26FB2F0500766CD3 /* hamuApp.swift */; };
 		005DC3C226FB2F0500766CD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005DC3C126FB2F0500766CD3 /* ContentView.swift */; };
 		005DC3C426FB2F0700766CD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 005DC3C326FB2F0700766CD3 /* Assets.xcassets */; };
@@ -26,6 +28,8 @@
 		0058C3E126FD8711004D23A8 /* Plant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant.swift; sourceTree = "<group>"; };
 		0058C3E326FD8A76004D23A8 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		0058C3E726FD9065004D23A8 /* PlantRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantRow.swift; sourceTree = "<group>"; };
+		0058C3E926FDAFB3004D23A8 /* PlantsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantsList.swift; sourceTree = "<group>"; };
+		0058C3EB26FDB2AE004D23A8 /* PlantDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantDetail.swift; sourceTree = "<group>"; };
 		005DC3BC26FB2F0500766CD3 /* hamu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hamu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		005DC3BF26FB2F0500766CD3 /* hamuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hamuApp.swift; sourceTree = "<group>"; };
 		005DC3C126FB2F0500766CD3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				005DC3C126FB2F0500766CD3 /* ContentView.swift */,
 				0058C3DD26FB6A87004D23A8 /* PlantImage.swift */,
 				0058C3E726FD9065004D23A8 /* PlantRow.swift */,
+				0058C3E926FDAFB3004D23A8 /* PlantsList.swift */,
+				0058C3EB26FDB2AE004D23A8 /* PlantDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,10 +187,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				005DC3C226FB2F0500766CD3 /* ContentView.swift in Sources */,
+				0058C3EA26FDAFB3004D23A8 /* PlantsList.swift in Sources */,
 				0058C3E026FB6BA8004D23A8 /* MapView.swift in Sources */,
 				0058C3E826FD9065004D23A8 /* PlantRow.swift in Sources */,
 				0058C3E226FD8711004D23A8 /* Plant.swift in Sources */,
 				005DC3C026FB2F0500766CD3 /* hamuApp.swift in Sources */,
+				0058C3EC26FDB2AE004D23A8 /* PlantDetail.swift in Sources */,
 				0058C3DE26FB6A87004D23A8 /* PlantImage.swift in Sources */,
 				0058C3E426FD8A76004D23A8 /* ModelData.swift in Sources */,
 			);
